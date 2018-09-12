@@ -1,8 +1,8 @@
 #Hello!
 
-Your files was encrypted! Write us:
 hola@all-ransomware.info
 hola@all-ransomware.info
+*some new information*
 hola@all-ransomware.info
-bjglkj l
-;djgblkjfm. m
+
+## Fill free to se these changes
